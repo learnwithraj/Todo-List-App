@@ -17,13 +17,6 @@ A simple Todo List application built with Flutter. The app allows users to manag
 - **Provider**: State management solution for Flutter that makes it easy to manage and share state in your app.
 - **sqflite**: SQLite plugin for Flutter to handle local database storage.
 
-## Setup
-
-### Prerequisites
-
-- Install [Flutter SDK](https://flutter.dev/docs/get-started/install).
-- Install Android Studio or Xcode (for iOS development).
-- Ensure you have an emulator or device to run the app.
 
 ### Clone the Repository
 
