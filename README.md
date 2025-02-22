@@ -8,9 +8,7 @@ A simple Todo List application built with Flutter. The app allows users to manag
 - 📅 Set due dates and reminders  
 - 🔄 Mark tasks as completed  
 - 🎨 Light & dark mode support  
-- 📌 Prioritize tasks with labels  
-- 📂 Backup & restore tasks locally  
-- 🔔 Notifications for due tasks 
+- 📌 Prioritize tasks with labels 
 
 ## Tech Stack
 
