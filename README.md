@@ -4,13 +4,13 @@ A simple Todo List application built with Flutter. The app allows users to manag
 
 ## Features
 
-- Add new tasks
-- Update existing tasks
-- Delete tasks
-- View tasks in a list
-- Mark tasks as completed (strikethrough text)
-- Handle due dates with different colors to represent urgency
-- Data is stored persistently in a local SQLite database
+- 📝 Add, edit, and delete tasks  
+- 📅 Set due dates and reminders  
+- 🔄 Mark tasks as completed  
+- 🎨 Light & dark mode support  
+- 📌 Prioritize tasks with labels  
+- 📂 Backup & restore tasks locally  
+- 🔔 Notifications for due tasks 
 
 ## Tech Stack
 
